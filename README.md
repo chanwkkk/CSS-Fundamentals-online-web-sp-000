@@ -350,7 +350,7 @@ We reviewed the specifics of CSS syntax and covered the different ways we can
 connect CSS to HTML. We ran through the various types of CSS selectors,
 including IDs, classes, compound, child, adjacent sibling, general sibling,
 universal, attribute and psuedo-classes. We also took a look at the various ways
-to express colors, from standard color names to hexidecimal and RBG values.
+to express colors, from standard color names to hexadecimal and RGB values.
 Lastly, we identified how to read and write CSS comments.
 
 <p data-visibility='hidden'>View <a href='https://learn.co/lessons/CSS-Fundamentals' title='CSS Fundamentals'>CSS Fundamentals</a> on Learn.co and start learning to code for free.</p>
